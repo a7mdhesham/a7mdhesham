@@ -1,6 +1,6 @@
 ### Hello there 👋
 <h1 align="center">I'm Ahmed Hesham 👨‍💻 </h1>
-<p align="center"> UI🔹UX Design / Front-End Developer 💻 </p>
+<h3 align="center"> UI🔹UX Design / Front-End Developer 💻 </h3>
 
 I'm a Software Engineer, who has experience in the fields of Front-End Development and UI/UX Design.
 
@@ -39,3 +39,7 @@ I'm a Software Engineer, who has experience in the fields of Front-End Developme
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  
+ 
+[![A7medhesham's github stats](https://github-readme-stats.vercel.app/api?username=a7mdhesham&theme=dark&show_icons=true)](https://github.com/a7mdhesham)
+
