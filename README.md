@@ -20,10 +20,8 @@ I'm a Software Engineer, who has experience in the fields of Front-End Developme
     <!--   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) -->
 - 🌱 I’m currently learning 
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-- 📫 How to reach me: 
- [![Gmail Badge](https://img.shields.io/badge/gmail-D14836??style=for-the-badge&logo=gmail&logoColor=white&link=https://twitter.com/_a7mdhesham_/)](https://twitter.com/_a7mdhesham_)
-  [![twitter Badge](https://img.shields.io/badge/twitter-00BFFF??style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/_a7mdhesham_/)](https://twitter.com/_a7mdhesham_)
-- ⚡ Fun fact: I'm a huge fan of Batman, I love to travel.
+  
+- ⚡ Fun fact: I'm a huge fan of [![barcelona](https://raw.githubusercontent.com/aleen42/badges/594f4551530786dc7f190cbe886a012aba1dae5c/src/barcelona.svg)](https://badges.aleen42.com/src/barcelona.svg) , I love to travel. 
 
 ## 🚀💻 Technologies & Tools
 
@@ -41,6 +39,11 @@ I'm a Software Engineer, who has experience in the fields of Front-End Developme
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
   ![Figma](https://img.shields.io/badge/figma-2F4F4F??style=for-the-badge&logo=figma&logoColor=white)
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  
+  ## 📞 Contact Me
+   [![Gmail Badge](https://img.shields.io/badge/gmail-D14836??style=for-the-badge&logo=gmail&logoColor=white&link=https://twitter.com/_a7mdhesham_/)](https://twitter.com/_a7mdhesham_)
+  [![twitter Badge](https://img.shields.io/badge/twitter-00BFFF??style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/_a7mdhesham_/)](https://twitter.com/_a7mdhesham_)
+  [![behance](https://raw.githubusercontent.com/aleen42/badges/594f4551530786dc7f190cbe886a012aba1dae5c/src/behance.svg)](https://www.behance.net/A7medHesham)
   
   ## 🚀💻 Support me 
   
