@@ -23,7 +23,7 @@ I'm a Software Engineer, who has experience in the fields of Front-End Developme
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836??style=for-the-badge&logo=gmail&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/_a7mdhesham_)
 - ⚡ Fun fact: I'm a huge fan of Batman, I love to travel.
 
-## 🚀💻 Technologies
+## 🚀💻 Technologies & Tools
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -43,6 +43,10 @@ I'm a Software Engineer, who has experience in the fields of Front-End Developme
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
   
+  ## 🚀💻 Support me 
+  
+[![BuyMeACoffee Badge](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&link=https://www.buymeacoffee.com/A7mdhesham)](https://www.buymeacoffee.com/A7mdhesham)
+
  
-[![A7medhesham's github stats](https://github-readme-stats.vercel.app/api?username=a7mdhesham&theme=dark&show_icons=true)](https://github.com/a7mdhesham)
+<!-- [![A7medhesham's github stats](https://github-readme-stats.vercel.app/api?username=a7mdhesham&theme=dark&show_icons=true)](https://github.com/a7mdhesham) -->
 
