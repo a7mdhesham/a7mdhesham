@@ -20,7 +20,9 @@ I'm a Software Engineer, who has experience in the fields of Front-End Developme
     <!--   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) -->
 - 🌱 I’m currently learning 
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836??style=for-the-badge&logo=gmail&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/_a7mdhesham_)
+- 📫 How to reach me: 
+ [![Gmail Badge](https://img.shields.io/badge/gmail-D14836??style=for-the-badge&logo=gmail&logoColor=white&link=https://twitter.com/_a7mdhesham_/)](https://twitter.com/_a7mdhesham_)
+  [![twitter Badge](https://img.shields.io/badge/twitter-00BFFF??style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/_a7mdhesham_/)](https://twitter.com/_a7mdhesham_)
 - ⚡ Fun fact: I'm a huge fan of Batman, I love to travel.
 
 ## 🚀💻 Technologies & Tools
@@ -30,17 +32,14 @@ I'm a Software Engineer, who has experience in the fields of Front-End Developme
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-  ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
-  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  ![Figma](https://img.shields.io/badge/figma-2F4F4F??style=for-the-badge&logo=figma&logoColor=white)
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
   
   ## 🚀💻 Support me 
