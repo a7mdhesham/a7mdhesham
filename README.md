@@ -40,12 +40,12 @@ I'm a Software Engineer, who has experience in the fields of Front-End Developme
   ![Figma](https://img.shields.io/badge/figma-2F4F4F??style=for-the-badge&logo=figma&logoColor=white)
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
   
-  ## 📞 Contact Me
+  ## 📧 Contact Me
    [![Gmail Badge](https://img.shields.io/badge/gmail-D14836??style=for-the-badge&logo=gmail&logoColor=white&link=https://twitter.com/_a7mdhesham_/)](https://twitter.com/_a7mdhesham_)
   [![twitter Badge](https://img.shields.io/badge/twitter-00BFFF??style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/_a7mdhesham_/)](https://twitter.com/_a7mdhesham_)
   [![behance](https://raw.githubusercontent.com/aleen42/badges/594f4551530786dc7f190cbe886a012aba1dae5c/src/behance.svg)](https://www.behance.net/A7medHesham)
   
-  ## 🚀💻 Support me 
+  ## 💗💳 Support me
   
 [![BuyMeACoffee Badge](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&link=https://www.buymeacoffee.com/A7mdhesham)](https://www.buymeacoffee.com/A7mdhesham)
 
