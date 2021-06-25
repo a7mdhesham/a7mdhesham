@@ -38,7 +38,7 @@ I'm a Software Engineer, who has experience in the fields of Front-End Developme
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
   ![Figma](https://img.shields.io/badge/figma-2F4F4F??style=for-the-badge&logo=figma&logoColor=white)
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  ![Canva](https://img.shields.io/badge/Canva-87CEFA??style=for-the-badge&logo=Canva&logoColor=white)
   
   ## 📧 Contact Me
    [![Gmail Badge](https://img.shields.io/badge/gmail-D14836??style=for-the-badge&logo=gmail&logoColor=white&link=https://twitter.com/_a7mdhesham_/)](https://twitter.com/_a7mdhesham_)
